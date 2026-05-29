@@ -1,0 +1,28 @@
+Electricity Consumption Monitoring System
+## Live Dashboard Link
+https://app.powerbi.com/view?r=eyJrIjoiM2NkNWNlMTktNGFmMy00OWY1LWI5MzUtYTVmNDYxMjUxYWNmIiwidCI6IjhlODMzODdiLTFhZWMtNDYxOS1iZmRjLTEyZjEwM2NmNzU3NyJ9
+
+# PowerBI Sales Dashboard
+
+## Dashboard Screenshots
+
+### Current Dashboard
+![Current](Screenshot%20(49).png)
+
+### Power Factor Dashboard
+![Power](Screenshot%20(50).png)
+
+### Current Analysis
+![Current Analysis](Screenshot%20(51).png)
+
+### Voltage Dashboard
+![Voltage](Screenshot%20(52).png)
+
+### Kilowatt Dashboard
+![Kilowatt](Screenshot%20(53).png)
+
+## Tools Used
+- Power BI
+- Excel
+- DAX
+- Data Visualization
